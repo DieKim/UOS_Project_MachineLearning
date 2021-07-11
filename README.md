@@ -1,5 +1,5 @@
 # UOS_Project_MachineLearning
-Machine Learning Project with R (20-1)
+서울시립대학교 기계학습 및 실습 기말 프로젝트 with R (20-1)
 
 ### 💡 Project
 여러가지 기계학습 기법 중 회귀 모델을 기반으로 기대수명에 영향을 미치는 요인을 찾고 기대수명을 가장 잘 설명하는 모형 적합하기 
